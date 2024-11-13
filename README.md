@@ -6,7 +6,7 @@ Soy un software developer que usa [React](https://reactjs.org) para el frontend 
 
 ## Que estoy haciendo ?
 
-- 🔭 Actualmente estoy trabajando en [Bigger](https://scalemote.co/).
+- 🔭 Actualmente estoy trabajando en [Bigger](https://www.biggertech.co/).
 - 🌱 Actualmente estoy trabajando con [Stellar](https://developers.stellar.org/docs).
 
 <br />
