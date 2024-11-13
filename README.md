@@ -2,8 +2,6 @@
 Soy un software developer que usa [React](https://reactjs.org) para el frontend con su version para apps de celular y [Node](https://nodejs.org/es/docs) con sus frameworks y ORM para el backend junto a SQL y noSQL. Tambien testeo mis apps para proporcionar un codigo mas robusto con [Jest](https://jestjs.io/docs/getting-started), [Cypress](https://cypress.io/), [React-Testin-Library](https://testing-library.com/docs/) y [Supertest](https://github.com/ladjs/supertest#readme).
 
 
-![Imagen de WhatsApp 2024-11-13 a las 10 17 36_cdb7ffad](https://github.com/user-attachments/assets/ea87d3c6-6fb9-4e6b-b914-e4da2b971e75)
-
 <br />
 
 ## Que estoy haciendo ?
