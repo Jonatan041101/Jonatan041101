@@ -2,7 +2,9 @@
 
 [![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/bbc41fdc-8dae-4f65-9658-0ae8ab8bf64b)](https://www.linkedin.com/in/jonatan-valdiviezo2205/)
 
-
+<a href="https://www.linkedin.com/in/tu-usuario/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
 
 <a href="" target="_blank">
 </a>
