@@ -1,31 +1,25 @@
 ## Hola soy Jonatan Valdiviezo 👋 
 
-[![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/bbc41fdc-8dae-4f65-9658-0ae8ab8bf64b)](https://www.linkedin.com/in/jonatan-valdiviezo2205/)
-
-[![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/7ebf62f6-16a4-4a97-9ad1-6ab84ee0c763)](mailto:valdiviezojonatan.2101@gmail.com)
-
-Soy un software developer que usa [React](https://reactjs.org) para el frontend con su version para apps de celular y [Node](https://nodejs.org/es/docs) con sus frameworks y ORM para el backend junto a SQL y noSQL. Tambien testeo mis apps para proporcionar un codigo mas robusto con [Jest](https://jestjs.io/docs/getting-started), [Cypress](https://cypress.io/), [React-Testin-Library](https://testing-library.com/docs/) y [Supertest](https://github.com/ladjs/supertest#readme).
-
-
-
+[![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/bbc41fdc-8dae-4f65-9658-0ae8ab8bf64b)](https://www.linkedin.com/in/jonatan-valdiviezo2205/) [![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/7ebf62f6-16a4-4a97-9ad1-6ab84ee0c763)](mailto:valdiviezojonatan.2101@gmail.com)
 <br />
+## Sobre Mi
 
-## Que estoy haciendo ?
+👨‍💻 Desarrollador Fullstack apasionado por la tecnología, la automatización y el código limpio.
 
-- 🔭 Actualmente estoy trabajando en [Bigger](https://www.biggertech.co/).
-- 🌱 Actualmente estoy trabajando con [Stellar](https://developers.stellar.org/docs).
+🧠 Aprendiz de por vida: siempre explorando cosas nuevas, especialmente relacionadas con NestJS, React y AWS.
 
+🌱 En constante crecimiento, tanto a nivel personal como profesional.
+
+🤝 Gran fanático del trabajo en equipo, las buenas prácticas y el café ☕.
 <br />
 
 ## Lenguajes y librerias
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://res.cloudinary.com/damjxqb5f/image/upload/v1694294339/node-js_pmsnsm.svg"></code>
-<code><img height="20" src="https://res.cloudinary.com/damjxqb5f/image/upload/v1694293914/nest_swokfa.svg"></code>
-<code><img height="20" src="https://res.cloudinary.com/damjxqb5f/image/upload/v1694293914/typeorm-logo-F243B34DEE-seeklogo.com_f6q9us.png"></code>
-<code><img height="20" src="https://res.cloudinary.com/damjxqb5f/image/upload/v1694293913/icons8-mysql_p99lyr.svg"></code>
-<code><img height="20" src="https://res.cloudinary.com/damjxqb5f/image/upload/v1694294002/next-js_zdhmwk.svg"></code>
-<code><img height="20" src="https://res.cloudinary.com/damjxqb5f/image/upload/v1694294157/stellar_y4lwhn.svg"></code>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,c,vim,nest,next,react,css,html,mysql,postgresql,sqlite,typescript,javascript,nodejs,aws,python,jest,cypress,rust,postman,figma,express" />
+  </a>
+</p>
 
 ---
 
