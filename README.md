@@ -17,6 +17,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,typescript,javascript,rust,python,nodejs,express,nest,next,react,svelte,tailwind,css,html,mysql,postgresql,sqlite,git,docker,aws,jest,cypress,postman,figma,vim,github" />
+    <img src="https://skillicons.dev/icons?i=c,typescript,javascript,rust,python,nodejs,express,nest,next,react,svelte,tailwind,materialui,bootstrap,css,html,mysql,postgresql,sqlite,git,docker,aws,jest,cypress,postman,figma,vim,github" />
   </a>
 </p>
