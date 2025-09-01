@@ -13,13 +13,10 @@
 🤝 Gran fanático del trabajo en equipo, las buenas prácticas y el café ☕.
 <br />
 
-## Lenguajes y librerias
+## Lenguajes, librerias y tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,vim,nest,next,react,css,html,mysql,postgresql,sqlite,typescript,javascript,nodejs,aws,python,jest,cypress,rust,postman,figma,express" />
+    <img src="https://skillicons.dev/icons?i=c,typescript,javascript,rust,python,nodejs,express,nest,next,react,svelte,tailwind,css,html,mysql,postgresql,sqlite,git,docker,aws,jest,cypress,postman,figma,vim,github" />
   </a>
 </p>
-
----
-
