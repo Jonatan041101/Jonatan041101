@@ -13,7 +13,7 @@
 🤝 Gran fanático del trabajo en equipo, las buenas prácticas y el café ☕.
 <br />
 
-## Lenguajes, librerias y tools
+## Lenguajes, librerias y herramientas
 
 <p align="center">
   <a href="https://skillicons.dev">
